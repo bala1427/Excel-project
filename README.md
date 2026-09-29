@@ -3,7 +3,7 @@
 Interactive Excel dashboard built with Pivot Tables, Pivot Charts and a Representative slicer.
 
 ## Overall Dashboard
-![Overall Dashboard](00_dashboard_overview.png)
+![Overall Dashboard](images/00_dashboard_overview.png)
 
 ## Dashboard Preview
 
