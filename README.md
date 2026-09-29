@@ -14,25 +14,25 @@ Interactive Excel dashboard built with Pivot Tables, Pivot Charts and a Represen
 <img src="02_calls_by_month.png" width="700">
 
 ### Calls by Weekday
-<img src="images/03_calls_by_weekday.png" width="500">
+<img src="03_calls_by_weekday.png" width="500">
 
 ### Female vs Male Callers by City
-<img src="images/04_gender_by_city.png" width="550">
+<img src="04_gender_by_city.png" width="550">
 
 ### Rating Distribution
-<img src="images/05_rating.png" width="550">
+<img src="05_rating.png" width="550">
 
 ### Calls by Representative
-<img src="images/06_calls_by_rep.png" width="450">
+<img src="06_calls_by_rep.png" width="450">
 
 ### Amount by Representative
-<img src="images/07_amount_by_rep.png" width="450">
+<img src="07_amount_by_rep.png" width="450">
 
 ### Representative Slicer
-<img src="images/08_representative_slicer.png" width="300">
+<img src="08_representative_slicer.png" width="300">
 
 ### Customer Sales by Representative
-<img src="images/09_customer_sales_pivot.png" width="700">
+<img src="09_customer_sales_pivot.png" width="700">
 
 ## Key Insights
 - 1,000 total calls, total amount ₹96,623
