@@ -3,12 +3,12 @@
 Interactive Excel dashboard built with Pivot Tables, Pivot Charts and a Representative slicer.
 
 ## Overall Dashboard
-![Overall Dashboard](images/00_dashboard_overview.png)
+![Overall Dashboard](Excel-project/images/00_dashboard_overview.png)
 
 ## Dashboard Preview
 
 ### KPIs
-<img src="images/01_kpi_cards.png" width="250">
+<img src="Excel-project/images/01_kpi_cards.png" width="250">
 
 ### Calls by Month
 <img src="images/02_calls_by_month.png" width="700">
