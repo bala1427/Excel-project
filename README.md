@@ -11,7 +11,7 @@ Interactive Excel dashboard built with Pivot Tables, Pivot Charts and a Represen
 <img src="01_kpi_cards.png" width="250">
 
 ### Calls by Month
-<img src="images/02_calls_by_month.png" width="700">
+<img src="02_calls_by_month.png" width="700">
 
 ### Calls by Weekday
 <img src="images/03_calls_by_weekday.png" width="500">
