@@ -8,7 +8,7 @@ Interactive Excel dashboard built with Pivot Tables, Pivot Charts and a Represen
 ## Dashboard Preview
 
 ### KPIs
-<img src="Excel-project/images/01_kpi_cards.png" width="250">
+<img src="01_kpi_cards.png" width="250">
 
 ### Calls by Month
 <img src="images/02_calls_by_month.png" width="700">
